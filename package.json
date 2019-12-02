@@ -5,9 +5,6 @@
   "description": "This is a library for creating JRPG games whit unity.",
   "unity": "2019.2",
   "unityRelease": "14f1",
-  "dependencies": {
-    "com.cglab.jrpg-game-utils": "1.0.0"
-  },
   "keywords": [
     "jrpg",
     "utils",
