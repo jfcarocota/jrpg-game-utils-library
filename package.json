@@ -18,8 +18,10 @@
   "author": {
     "name": "Jesus Francisco Caro Cota",
     "email": "jfcarocota@gmail.com",
-    "url": "https://www.unity3d.com"
+    "url": "https://connect.unity.com/u/jesus-caro"
   },
-  "type": "Library",
-  "hideInEditor": false
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfcarocota/jrpg-game-utils-library.git"
+  }
 }
