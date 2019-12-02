@@ -1,25 +1,25 @@
 {
-  "name": "com.cglab.jrpg-game-utils",
+  "name": "com.cglab.jrpg-game-utils-library",
   "version": "1.0.1",
-  "displayName": "JRPG Game Utils Library",
-  "description": "This is a library for creating JRPG games whit unity.",
+  "displayName": "JRPG Utils",
+  "description": "This is an utility for JRPG games",
   "unity": "2019.2",
   "keywords": [
-    "jrpg",
+    "cglab",
+    "rpg",
+    "topdopwn",
     "utils",
-    "movement",
-    "inputs",
-    "save-load-system",
-    "text-conversation",
-    "classes",
+    "jrpg",
+    "items",
     "leveling",
-    "items"
+    "memory"
   ],
   "author": {
-    "name": "Jesus Francisco Caro Cota",
+    "name": "Jesús Caro",
     "email": "jfcarocota@gmail.com",
     "url": "https://connect.unity.com/u/jesus-caro"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jfcarocota/jrpg-game-utils-library.git"
