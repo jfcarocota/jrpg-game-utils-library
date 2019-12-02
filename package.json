@@ -4,7 +4,6 @@
   "displayName": "JRPG Game Utils Library",
   "description": "This is a library for creating JRPG games whit unity.",
   "unity": "2019.2",
-  "unityRelease": "14f1",
   "keywords": [
     "jrpg",
     "utils",
